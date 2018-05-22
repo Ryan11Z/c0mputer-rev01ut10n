@@ -2936,6 +2936,11 @@ body {
 .cid-qPJhbMKDz6 .dropdown-item:hover {
   color: #55b4d4 !important;
 }
+.cid-qSLzNd9RVg {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/background5.jpg");
+}
 .cid-qPJhbMKDz6 .navbar {
   padding: .5rem 0;
   background: #000000;
@@ -3855,6 +3860,29 @@ body {
 }
 @media (max-width: 768px) {
   .cid-qSn5CxwmGu .inner-container {
+    width: 100% !important;
+  }
+}
+.cid-qSLAuTQs43 {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-qSLAuTQs43 .line {
+  background-color: #ffffff;
+  color: #ffffff;
+  align: center;
+  height: 2px;
+  margin: 0 auto;
+}
+.cid-qSLAuTQs43 .section-text {
+  padding: 2rem 0;
+}
+.cid-qSLAuTQs43 .inner-container {
+  margin: 0 auto;
+}
+@media (max-width: 768px) {
+  .cid-qSLAuTQs43 .inner-container {
     width: 100% !important;
   }
 }
