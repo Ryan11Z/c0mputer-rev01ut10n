@@ -2548,9 +2548,12 @@ body {
   color: #f7ed4a !important;
 }
 .cid-qSLzNd9RVg {
-  padding-top: 90px;
+  padding-top: 135px;
   padding-bottom: 90px;
   background-image: url("../../../assets/images/background5.jpg");
+}
+.cid-qSLzNd9RVg P {
+  text-align: center;
 }
 .cid-qPJhbMKDz6 .navbar {
   padding: .5rem 0;
