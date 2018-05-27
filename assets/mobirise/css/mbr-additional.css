@@ -2547,6 +2547,9 @@ body {
 .cid-qPJhbMKDz6 .dropdown-item:hover {
   color: #f7ed4a !important;
 }
+.cid-qTe0WEKlQ2 {
+  background-image: url("../../../assets/images/mbr-864x1080.jpg");
+}
 .cid-qPJhbMKDz6 .navbar {
   padding: .5rem 0;
   background: #232323;
@@ -2935,6 +2938,16 @@ body {
 .cid-qPJhbMKDz6 .nav-link:hover,
 .cid-qPJhbMKDz6 .dropdown-item:hover {
   color: #f7ed4a !important;
+}
+.cid-qTeBOOACtQ {
+  background-image: url("../../../assets/images/sa-2000x1214.jpg");
+}
+.cid-qTeBOOACtQ .mbr-text,
+.cid-qTeBOOACtQ .mbr-section-btn {
+  color: #ffffff;
+}
+.cid-qTeBOOACtQ H1 {
+  color: #ffffff;
 }
 .cid-qPJhbMKDz6 .navbar {
   padding: .5rem 0;
